@@ -1,0 +1,2 @@
+# SplitWisely
+Expense Spltting App
